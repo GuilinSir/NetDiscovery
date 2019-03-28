@@ -3,6 +3,7 @@ package com.net.netdiscovery.mian;
 import com.cv4j.netdiscovery.core.Spider;
 import com.cv4j.netdiscovery.extra.downloader.httpclient.HttpClientDownloader;
 import com.net.netdiscovery.parser.EosParser;
+import com.net.netdiscovery.pipeline.EosPipeline;
 
 /**
  * Created by tony on 2018/2/2.
@@ -21,6 +22,7 @@ public class EosSpider {
         //下面这行代码要注意，要设置>=periodTime，想了解具体作用，可以去分析源代码
                 .initialDelay(periodTime)
                 .parser(new EosParser())
+                .pipeline(new EosPipeline())
                 .downloader(new HttpClientDownloader())
                 .run();
 

@@ -13,7 +13,7 @@ public class TestSpider {
     public static void main(String[] args) {
 
         //目标任务的网页地址，可以拷贝到浏览器去查看
-        String url = "http://www.szrc.cn/HrMarket/WLZP/ZP/0/%e9%94%80%e5%94%ae";
+        String url = "http://gank.io";
 
         //依靠NetDiscovery，我们只需要写一个parser类就可以实现基本的爬虫功能了
         Spider.create()
