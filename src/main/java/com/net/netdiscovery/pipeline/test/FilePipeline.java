@@ -1,4 +1,4 @@
-package com.net.netdiscovery.pipeline;
+package com.net.netdiscovery.pipeline.test;
 
 import com.cv4j.netdiscovery.core.domain.ResultItems;
 import com.cv4j.netdiscovery.core.pipeline.Pipeline;
@@ -25,7 +25,6 @@ public class FilePipeline implements Pipeline {
         VertxUtils.getVertx().fileSystem().writeFile(fileName, Buffer.buffer(sb.toString()), result -> {
 
             if(result.succeeded()) {
-
                 System.out.println("File written");
             }
         });

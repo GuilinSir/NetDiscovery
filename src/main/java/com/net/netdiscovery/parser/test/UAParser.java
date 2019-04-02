@@ -1,25 +1,23 @@
-package com.net.netdiscovery.parser;
+package com.net.netdiscovery.parser.test;
 
 import com.cv4j.netdiscovery.core.domain.Page;
-import com.cv4j.netdiscovery.core.parser.AnnotationParser;
-import com.cv4j.netdiscovery.core.parser.annotation.ExtractBy;
+import com.cv4j.netdiscovery.core.domain.ResultItems;
+import com.cv4j.netdiscovery.core.parser.Parser;
 import com.cv4j.netdiscovery.core.utils.URLParser;
 
 import java.io.UnsupportedEncodingException;
-import java.net.MalformedURLException;
-import java.util.List;
 
 /**
- * Created by tony on 2018/2/28.
+ * Created by tony on 2018/2/2.
  */
-public class UAParser2 extends AnnotationParser {
-
-    @ExtractBy.XPath("//div[@id='liste']/ul/li/a/text()")
-    private List<String> ua;
+public class UAParser implements Parser {
 
     @Override
     public void process(Page page) {
-        super.process(page);
+
+        ResultItems resultItems = page.getResultItems();
+
+        resultItems.put("ua",page.getHtml().xpath("//div[@id='liste']/ul/li/a/text()").all());
 
         URLParser parser = page.getRequest().getUrlParser();
 

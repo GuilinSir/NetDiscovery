@@ -1,8 +1,7 @@
-package com.net.netdiscovery.parser;
+package com.net.netdiscovery.parser.test;
 
 import com.cv4j.netdiscovery.core.domain.Page;
 import com.cv4j.netdiscovery.core.parser.AnnotationParser;
-import com.cv4j.netdiscovery.core.parser.Parser;
 import com.cv4j.netdiscovery.core.parser.annotation.ExtractBy;
 
 public class EosParser extends AnnotationParser {

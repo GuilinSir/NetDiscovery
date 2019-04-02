@@ -1,0 +1,560 @@
+09:26:38.629 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:26:39.930 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:27:52.253 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:27:53.312 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:28:10.303 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:28:11.414 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:29:03.024 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:29:04.174 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:29:49.147 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:29:50.381 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:36:50.155 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:36:51.458 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:38:07.137 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:38:08.287 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline
+09:39:11.255 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:39:12.320 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline/android
+09:40:14.776 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider zhihu stop success!
+09:41:58.604 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://juejin.im/timeline/android
+09:48:18.065 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:48:18.900 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:49:04.126 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:49:04.912 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:51:15.898 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:51:16.731 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:51:47.067 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:51:47.859 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:58:32.010 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:58:33.094 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:59:02.792 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:59:03.536 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+09:59:21.136 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+09:59:21.977 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:05:55.765 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:05:56.761 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:06:20.471 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:06:21.469 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:07:41.368 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:07:42.191 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:08:41.505 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:08:42.356 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:09:13.326 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:09:14.181 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:10:15.219 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:10:16.140 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:20:18.207 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:20:18.977 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:21:27.174 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:21:27.997 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:22:12.705 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:22:13.524 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:23:35.180 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:23:36.095 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:24:16.990 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:24:17.784 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:25:22.999 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:25:23.926 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:27:19.254 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:27:20.054 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:27:56.379 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:27:57.133 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.jianshu.com/
+10:33:04.902 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:33:05.609 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Client is closed
+java.lang.IllegalStateException: Client is closed
+	at io.vertx.core.http.impl.HttpClientImpl.checkClosed(HttpClientImpl.java:1051)
+	at io.vertx.core.http.impl.HttpClientImpl.createRequest(HttpClientImpl.java:1022)
+	at io.vertx.core.http.impl.HttpClientImpl.createRequest(HttpClientImpl.java:1009)
+	at io.vertx.core.http.impl.HttpClientImpl.lambda$new$0(HttpClientImpl.java:87)
+	at io.vertx.ext.web.client.impl.HttpContext.receiveResponse(HttpContext.java:189)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$handleSendRequest$9(HttpContext.java:394)
+	at io.vertx.core.impl.FutureImpl.tryComplete(FutureImpl.java:125)
+	at io.vertx.core.http.impl.HttpClientRequestImpl.doHandleResponse(HttpClientRequestImpl.java:430)
+	at io.vertx.core.http.impl.HttpClientRequestBase.doHandleResponse(HttpClientRequestBase.java:175)
+	at io.vertx.core.http.impl.HttpClientRequestBase.checkHandleResponse(HttpClientRequestBase.java:162)
+	at io.vertx.core.http.impl.HttpClientRequestBase.handleResponse(HttpClientRequestBase.java:146)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleResponseBegin(Http1xClientConnection.java:624)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleHttpMessage(Http1xClientConnection.java:594)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleMessage(Http1xClientConnection.java:560)
+	at io.vertx.core.net.impl.ConnectionBase.handleRead(ConnectionBase.java:386)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.execute(EventLoopContext.java:43)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:188)
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:174)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:426)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:278)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1432)
+	at io.netty.handler.ssl.SslHandler.decodeJdkCompatible(SslHandler.java:1199)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:1243)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:502)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:441)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:278)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:648)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:583)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:500)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:462)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+10:33:23.725 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:33:24.478 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Client is closed
+java.lang.IllegalStateException: Client is closed
+	at io.vertx.core.http.impl.HttpClientImpl.checkClosed(HttpClientImpl.java:1051)
+	at io.vertx.core.http.impl.HttpClientImpl.createRequest(HttpClientImpl.java:1022)
+	at io.vertx.core.http.impl.HttpClientImpl.createRequest(HttpClientImpl.java:1009)
+	at io.vertx.core.http.impl.HttpClientImpl.lambda$new$0(HttpClientImpl.java:87)
+	at io.vertx.ext.web.client.impl.HttpContext.receiveResponse(HttpContext.java:189)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$handleSendRequest$9(HttpContext.java:394)
+	at io.vertx.core.impl.FutureImpl.tryComplete(FutureImpl.java:125)
+	at io.vertx.core.http.impl.HttpClientRequestImpl.doHandleResponse(HttpClientRequestImpl.java:430)
+	at io.vertx.core.http.impl.HttpClientRequestBase.doHandleResponse(HttpClientRequestBase.java:175)
+	at io.vertx.core.http.impl.HttpClientRequestBase.checkHandleResponse(HttpClientRequestBase.java:162)
+	at io.vertx.core.http.impl.HttpClientRequestBase.handleResponse(HttpClientRequestBase.java:146)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleResponseBegin(Http1xClientConnection.java:624)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleHttpMessage(Http1xClientConnection.java:594)
+	at io.vertx.core.http.impl.Http1xClientConnection.handleMessage(Http1xClientConnection.java:560)
+	at io.vertx.core.net.impl.ConnectionBase.handleRead(ConnectionBase.java:386)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.execute(EventLoopContext.java:43)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:188)
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:174)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:438)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:426)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:278)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:253)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1432)
+	at io.netty.handler.ssl.SslHandler.decodeJdkCompatible(SslHandler.java:1199)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:1243)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:502)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:441)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:278)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:163)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:648)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:583)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:500)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:462)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+10:36:42.616 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:36:43.570 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+10:38:06.437 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+10:38:07.409 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:17:21.916 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:17:22.789 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:19:45.634 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:19:45.981 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x44cd5915, L:/0:0:0:0:0:0:0:0:55070] Received a DNS response with an unknown ID: 51157
+11:19:46.009 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x44cd5915, L:/0:0:0:0:0:0:0:0:55070] Received a DNS response with an unknown ID: 23769
+11:19:46.934 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:24:19.608 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:24:20.530 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:25:12.840 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:25:13.694 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:25:33.885 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:25:34.787 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:27:35.334 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:27:36.216 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Could not parse query '#text()': unexpected token at '#text()'
+org.jsoup.select.Selector$SelectorParseException: Could not parse query '#text()': unexpected token at '#text()'
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:166)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at com.cv4j.netdiscovery.core.parser.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at com.cv4j.netdiscovery.core.parser.selector.Selectors.xpath(Selectors.java:32)
+	at com.cv4j.netdiscovery.core.parser.selector.HtmlNode.xpath(HtmlNode.java:43)
+	at com.net.netdiscovery.parser.test.TestParser.process(TestParser.java:19)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:508)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:501)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:82)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.flowable.FlowableSingleMaybe$SingleElementSubscriber.onComplete(FlowableSingleMaybe.java:104)
+	at io.reactivex.subscribers.SerializedSubscriber.onComplete(SerializedSubscriber.java:168)
+	at io.reactivex.internal.operators.flowable.FlowableRetryWhen$RetryWhenSubscriber.onComplete(FlowableRetryWhen.java:82)
+	at io.reactivex.internal.subscriptions.DeferredScalarSubscription.complete(DeferredScalarSubscription.java:134)
+	at io.reactivex.internal.operators.maybe.MaybeToFlowable$MaybeToFlowableSubscriber.onSuccess(MaybeToFlowable.java:70)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.maybe.MaybeFromSingle$FromSingleObserver.onSuccess(MaybeFromSingle.java:76)
+	at io.vertx.reactivex.impl.AsyncResultSingle.lambda$subscribeActual$0(AsyncResultSingle.java:52)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:542)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:539)
+	at io.vertx.ext.web.client.impl.HttpContext.handleDispatchResponse(HttpContext.java:286)
+	at io.vertx.ext.web.client.impl.HttpContext.execute(HttpContext.java:273)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:251)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:69)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:32)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:248)
+	at io.vertx.ext.web.client.impl.HttpContext.fire(HttpContext.java:258)
+	at io.vertx.ext.web.client.impl.HttpContext.dispatchResponse(HttpContext.java:219)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$null$2(HttpContext.java:342)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.lambda$executeAsync$0(EventLoopContext.java:38)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:466)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+11:27:57.348 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:27:58.312 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Could not parse query '#text': unexpected token at '#text'
+org.jsoup.select.Selector$SelectorParseException: Could not parse query '#text': unexpected token at '#text'
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:166)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at com.cv4j.netdiscovery.core.parser.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at com.cv4j.netdiscovery.core.parser.selector.Selectors.xpath(Selectors.java:32)
+	at com.cv4j.netdiscovery.core.parser.selector.HtmlNode.xpath(HtmlNode.java:43)
+	at com.net.netdiscovery.parser.test.TestParser.process(TestParser.java:19)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:508)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:501)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:82)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.flowable.FlowableSingleMaybe$SingleElementSubscriber.onComplete(FlowableSingleMaybe.java:104)
+	at io.reactivex.subscribers.SerializedSubscriber.onComplete(SerializedSubscriber.java:168)
+	at io.reactivex.internal.operators.flowable.FlowableRetryWhen$RetryWhenSubscriber.onComplete(FlowableRetryWhen.java:82)
+	at io.reactivex.internal.subscriptions.DeferredScalarSubscription.complete(DeferredScalarSubscription.java:134)
+	at io.reactivex.internal.operators.maybe.MaybeToFlowable$MaybeToFlowableSubscriber.onSuccess(MaybeToFlowable.java:70)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.maybe.MaybeFromSingle$FromSingleObserver.onSuccess(MaybeFromSingle.java:76)
+	at io.vertx.reactivex.impl.AsyncResultSingle.lambda$subscribeActual$0(AsyncResultSingle.java:52)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:542)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:539)
+	at io.vertx.ext.web.client.impl.HttpContext.handleDispatchResponse(HttpContext.java:286)
+	at io.vertx.ext.web.client.impl.HttpContext.execute(HttpContext.java:273)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:251)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:69)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:32)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:248)
+	at io.vertx.ext.web.client.impl.HttpContext.fire(HttpContext.java:258)
+	at io.vertx.ext.web.client.impl.HttpContext.dispatchResponse(HttpContext.java:219)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$null$2(HttpContext.java:342)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.lambda$executeAsync$0(EventLoopContext.java:38)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:466)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+11:28:26.171 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:28:27.100 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:31:06.148 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:31:07.120 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:31:36.278 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:31:37.200 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+11:31:52.267 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+11:31:53.125 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:24:34.049 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:24:34.914 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:31:34.874 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:31:35.140 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0xa6cdad12, L:/0:0:0:0:0:0:0:0:62606] Received a DNS response with an unknown ID: 15978
+12:31:35.162 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0xa6cdad12, L:/0:0:0:0:0:0:0:0:62606] Received a DNS response with an unknown ID: 33497
+12:31:36.748 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:33:18.178 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:33:19.227 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:33:59.797 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:34:00.080 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x08e18421, L:/0:0:0:0:0:0:0:0:59851] Received a DNS response with an unknown ID: 2278
+12:34:00.101 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x08e18421, L:/0:0:0:0:0:0:0:0:59851] Received a DNS response with an unknown ID: 46155
+12:34:02.160 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:35:59.734 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:36:00.810 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Could not parse query '.': unexpected token at '.'
+org.jsoup.select.Selector$SelectorParseException: Could not parse query '.': unexpected token at '.'
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:166)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at com.cv4j.netdiscovery.core.parser.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at com.cv4j.netdiscovery.core.parser.selector.Selectors.xpath(Selectors.java:32)
+	at com.cv4j.netdiscovery.core.parser.selector.HtmlNode.xpath(HtmlNode.java:43)
+	at com.net.netdiscovery.parser.test.TestParser.process(TestParser.java:18)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:508)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:501)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:82)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.flowable.FlowableSingleMaybe$SingleElementSubscriber.onComplete(FlowableSingleMaybe.java:104)
+	at io.reactivex.subscribers.SerializedSubscriber.onComplete(SerializedSubscriber.java:168)
+	at io.reactivex.internal.operators.flowable.FlowableRetryWhen$RetryWhenSubscriber.onComplete(FlowableRetryWhen.java:82)
+	at io.reactivex.internal.subscriptions.DeferredScalarSubscription.complete(DeferredScalarSubscription.java:134)
+	at io.reactivex.internal.operators.maybe.MaybeToFlowable$MaybeToFlowableSubscriber.onSuccess(MaybeToFlowable.java:70)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.maybe.MaybeFromSingle$FromSingleObserver.onSuccess(MaybeFromSingle.java:76)
+	at io.vertx.reactivex.impl.AsyncResultSingle.lambda$subscribeActual$0(AsyncResultSingle.java:52)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:542)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:539)
+	at io.vertx.ext.web.client.impl.HttpContext.handleDispatchResponse(HttpContext.java:286)
+	at io.vertx.ext.web.client.impl.HttpContext.execute(HttpContext.java:273)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:251)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:69)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:32)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:248)
+	at io.vertx.ext.web.client.impl.HttpContext.fire(HttpContext.java:258)
+	at io.vertx.ext.web.client.impl.HttpContext.dispatchResponse(HttpContext.java:219)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$null$2(HttpContext.java:342)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.lambda$executeAsync$0(EventLoopContext.java:38)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:466)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+12:36:59.650 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:37:01.281 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:38:42.528 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:38:43.472 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+12:39:22.627 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+12:39:23.795 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+13:40:39.449 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+13:40:40.510 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+13:46:55.891 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+13:46:56.166 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0xb2e89c14, L:/0:0:0:0:0:0:0:0:62976] Received a DNS response with an unknown ID: 48653
+13:46:56.194 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0xb2e89c14, L:/0:0:0:0:0:0:0:0:62976] Received a DNS response with an unknown ID: 60272
+13:46:57.287 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+13:47:39.908 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+13:47:40.214 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x11aadb69, L:/0:0:0:0:0:0:0:0:53153] Received a DNS response with an unknown ID: 56042
+13:47:40.234 [WARN ] [vert.x-eventloop-thread-2] [io.netty.resolver.dns.DnsNameResolver] [id: 0x11aadb69, L:/0:0:0:0:0:0:0:0:53153] Received a DNS response with an unknown ID: 47385
+13:47:40.797 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
+13:55:27.107 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+13:55:27.946 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Could not parse query 'child::*': unexpected token at '::*'
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'child::*': unexpected token at '::*'
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:166)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at com.cv4j.netdiscovery.core.parser.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at com.cv4j.netdiscovery.core.parser.selector.Selectors.xpath(Selectors.java:32)
+	at com.cv4j.netdiscovery.core.parser.selector.HtmlNode.xpath(HtmlNode.java:43)
+	at com.net.netdiscovery.parser.test.TestParser.process(TestParser.java:18)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:508)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:501)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:82)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.flowable.FlowableSingleMaybe$SingleElementSubscriber.onComplete(FlowableSingleMaybe.java:104)
+	at io.reactivex.subscribers.SerializedSubscriber.onComplete(SerializedSubscriber.java:168)
+	at io.reactivex.internal.operators.flowable.FlowableRetryWhen$RetryWhenSubscriber.onComplete(FlowableRetryWhen.java:82)
+	at io.reactivex.internal.subscriptions.DeferredScalarSubscription.complete(DeferredScalarSubscription.java:134)
+	at io.reactivex.internal.operators.maybe.MaybeToFlowable$MaybeToFlowableSubscriber.onSuccess(MaybeToFlowable.java:70)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.maybe.MaybeFromSingle$FromSingleObserver.onSuccess(MaybeFromSingle.java:76)
+	at io.vertx.reactivex.impl.AsyncResultSingle.lambda$subscribeActual$0(AsyncResultSingle.java:52)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:542)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:539)
+	at io.vertx.ext.web.client.impl.HttpContext.handleDispatchResponse(HttpContext.java:286)
+	at io.vertx.ext.web.client.impl.HttpContext.execute(HttpContext.java:273)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:251)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:69)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:32)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:248)
+	at io.vertx.ext.web.client.impl.HttpContext.fire(HttpContext.java:258)
+	at io.vertx.ext.web.client.impl.HttpContext.dispatchResponse(HttpContext.java:219)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$null$2(HttpContext.java:342)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.lambda$executeAsync$0(EventLoopContext.java:38)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:466)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+14:14:19.680 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:22.769 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:25.839 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:28.905 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:32.099 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:35.166 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:38.232 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:41.297 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:44.488 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:47.547 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:50.610 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:53.674 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:56.906 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:14:59.996 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:03.092 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:06.178 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:09.382 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:12.441 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:15.506 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:18.582 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:21.833 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:24.897 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:27.959 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:31.020 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:34.393 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:37.454 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:40.514 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:43.576 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:46.763 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:49.825 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:52.895 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:55.956 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:15:59.141 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:02.203 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:05.258 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:08.318 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:11.497 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:14.558 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:17.615 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:20.675 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:23.875 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:26.935 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:29.994 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:16:33.054 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:27:47.958 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:27:52.518 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:27:55.882 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:01.249 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:04.606 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:07.972 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:11.855 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:15.230 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:19.648 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:23.531 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:26.901 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:30.280 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:33.659 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:37.728 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:41.132 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:44.513 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:47.891 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:51.997 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:55.365 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:28:59.669 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:04.047 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:07.373 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:10.725 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:14.104 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:18.509 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:21.885 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:25.266 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:28.623 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:32.538 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:35.875 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:39.227 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:42.588 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:46.504 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:49.849 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:53.222 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:56.602 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:29:59.981 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:03.361 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:06.745 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:10.631 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:13.994 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:17.315 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:20.669 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:24.759 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:28.164 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:31.489 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:34.844 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:38.918 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:42.270 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:45.649 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:48.966 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:52.829 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+14:30:56.195 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:39.245 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:42.324 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:45.391 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:48.455 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:51.680 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:37:54.741 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] https://www.feixiaohao.com/currencies/eos/
+15:38:15.742 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+15:38:16.512 [ERROR] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] Could not parse query 'child::*': unexpected token at '::*'
+org.jsoup.select.Selector$SelectorParseException: Could not parse query 'child::*': unexpected token at '::*'
+	at us.codecraft.xsoup.xevaluator.XPathParser.findElements(XPathParser.java:166)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:76)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.xevaluator.XPathParser.combinator(XPathParser.java:110)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:74)
+	at us.codecraft.xsoup.xevaluator.XPathParser.parse(XPathParser.java:408)
+	at us.codecraft.xsoup.Xsoup.compile(Xsoup.java:25)
+	at com.cv4j.netdiscovery.core.parser.selector.XpathSelector.<init>(XpathSelector.java:21)
+	at com.cv4j.netdiscovery.core.parser.selector.Selectors.xpath(Selectors.java:32)
+	at com.cv4j.netdiscovery.core.parser.selector.HtmlNode.xpath(HtmlNode.java:43)
+	at com.net.netdiscovery.parser.test.TestParser.process(TestParser.java:18)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:508)
+	at com.cv4j.netdiscovery.core.Spider$5.apply(Spider.java:501)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:82)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.flowable.FlowableSingleMaybe$SingleElementSubscriber.onComplete(FlowableSingleMaybe.java:104)
+	at io.reactivex.subscribers.SerializedSubscriber.onComplete(SerializedSubscriber.java:168)
+	at io.reactivex.internal.operators.flowable.FlowableRetryWhen$RetryWhenSubscriber.onComplete(FlowableRetryWhen.java:82)
+	at io.reactivex.internal.subscriptions.DeferredScalarSubscription.complete(DeferredScalarSubscription.java:134)
+	at io.reactivex.internal.operators.maybe.MaybeToFlowable$MaybeToFlowableSubscriber.onSuccess(MaybeToFlowable.java:70)
+	at io.reactivex.internal.operators.maybe.MaybeMap$MapMaybeObserver.onSuccess(MaybeMap.java:89)
+	at io.reactivex.internal.operators.maybe.MaybeFromSingle$FromSingleObserver.onSuccess(MaybeFromSingle.java:76)
+	at io.vertx.reactivex.impl.AsyncResultSingle.lambda$subscribeActual$0(AsyncResultSingle.java:52)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:542)
+	at io.vertx.reactivex.ext.web.client.HttpRequest$10.handle(HttpRequest.java:539)
+	at io.vertx.ext.web.client.impl.HttpContext.handleDispatchResponse(HttpContext.java:286)
+	at io.vertx.ext.web.client.impl.HttpContext.execute(HttpContext.java:273)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:251)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:69)
+	at io.vertx.ext.web.client.impl.predicate.PredicateInterceptor.handle(PredicateInterceptor.java:32)
+	at io.vertx.ext.web.client.impl.HttpContext.next(HttpContext.java:248)
+	at io.vertx.ext.web.client.impl.HttpContext.fire(HttpContext.java:258)
+	at io.vertx.ext.web.client.impl.HttpContext.dispatchResponse(HttpContext.java:219)
+	at io.vertx.ext.web.client.impl.HttpContext.lambda$null$2(HttpContext.java:342)
+	at io.vertx.core.impl.ContextImpl.executeTask(ContextImpl.java:320)
+	at io.vertx.core.impl.EventLoopContext.lambda$executeAsync$0(EventLoopContext.java:38)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:466)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+16:04:15.345 [INFO ] [main] [com.cv4j.netdiscovery.core.Spider] Spider spider-1 stop success!
+16:04:16.269 [INFO ] [RxCachedThreadScheduler-1] [com.cv4j.netdiscovery.core.Spider] http://gank.io
