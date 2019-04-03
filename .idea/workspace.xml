@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com.net.NetDiscovery.main:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b47b8850-5e27-4c7b-a875-e2326445f8b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/power/PowerPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/netdiscovery_log.out" beforeDir="false" afterPath="$PROJECT_DIR$/log/netdiscovery_log.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/EosSpider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/TestSpider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/UASpider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/EosParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/TestParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/UAParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/UAParser2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/pipeline/EosPipeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/pipeline/FilePipeline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/EosSpider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/EosSpider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/TestSpider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/TestSpider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/UASpider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/UASpider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/EosParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/test/EosParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/TestParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/test/TestParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/UAParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/test/UAParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/UAParser2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/test/UAParser2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/EosPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/test/EosPipeline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/FilePipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/test/FilePipeline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/power/PowerSpider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/power/PowerSpider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/power/PowerParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/parser/power/PowerParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/EosParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/FilePipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/TestParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/UAParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/net/discovery/UAParser2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -34,6 +31,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NetDiscovery$PowerSpider.ic" NAME="PowerSpider Coverage Results" MODIFIED="1554196004196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.net.netdiscovery.mian.power.*</FILTER>
+    </SUITE>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -50,6 +52,9 @@
     <select />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Downloads/NetDiscovery-master/extra">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
@@ -76,11 +81,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="283">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,19 +115,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/SpiderEngine.java">
+        <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.5/67c47de9bc6f4f21fa778df81dc34126f471428e/netdiscovery-core-0.3.5-sources.jar!/com/cv4j/netdiscovery/core/domain/Request.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="377" column="16" selection-start-line="377" selection-start-column="16" selection-end-line="377" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/Spider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="553" selection-start-line="553" selection-end-line="553" />
+            <state relative-caret-position="3585">
+              <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -118,10 +158,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>header</find>
-      <find>initialDelay</find>
       <find>repeatRequest</find>
       <find>stop all spiders</find>
       <find>name</find>
+      <find>invalid version format</find>
+      <find>initialDelay</find>
+      <find>httpMethod</find>
+      <find>compositeDisposable</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,7 +177,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/TestParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/EosParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/Main.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/FilePipeline.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/EosPipeline.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/EosSpider.java" />
@@ -149,7 +191,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/power/PowerPipeline.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/UASpider.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider2.java" />
       </list>
     </option>
   </component>
@@ -161,7 +205,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="43" />
-    <option name="y" value="31" />
+    <option name="y" value="63" />
     <option name="width" value="1237" />
     <option name="height" value="737" />
   </component>
@@ -170,8 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,73 +266,28 @@
               <item name="mian" type="462c0819:PsiDirectoryNode" />
               <item name="power" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NetDiscovery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetDiscovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netdiscovery" type="462c0819:PsiDirectoryNode" />
-              <item name="mian" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetDiscovery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetDiscovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netdiscovery" type="462c0819:PsiDirectoryNode" />
-              <item name="parser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetDiscovery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetDiscovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netdiscovery" type="462c0819:PsiDirectoryNode" />
-              <item name="parser" type="462c0819:PsiDirectoryNode" />
-              <item name="power" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetDiscovery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetDiscovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netdiscovery" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetDiscovery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetDiscovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netdiscovery" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeline" type="462c0819:PsiDirectoryNode" />
-              <item name="power" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554185912660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554253117278" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.side.proportion" value="0.34712642" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.net.netdiscovery.mian.power" />
       <recent name="com.net.netdiscovery.pipeline" />
       <recent name="com.net.netdiscovery.parser" />
       <recent name="com.net.netdiscovery.mian" />
@@ -311,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerSpider">
+  <component name="RunManager" selected="Application.PowerSpider2">
     <configuration name="EosSpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.net.netdiscovery.mian.test.EosSpider" />
       <module name="com.net.NetDiscovery.main" />
@@ -327,6 +324,19 @@
     </configuration>
     <configuration name="PowerSpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.net.netdiscovery.mian.power.PowerSpider" />
+      <module name="com.net.NetDiscovery.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.net.netdiscovery.mian.power.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerSpider2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.net.netdiscovery.mian.power.PowerSpider2" />
       <module name="com.net.NetDiscovery.main" />
       <extension name="coverage">
         <pattern>
@@ -366,6 +376,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerSpider2" />
         <item itemvalue="Application.PowerSpider" />
         <item itemvalue="Application.UASpider" />
         <item itemvalue="Application.EosSpider" />
@@ -389,11 +400,18 @@
       <workItem from="1553821004249" duration="7806000" />
       <workItem from="1554108342008" duration="12300000" />
       <workItem from="1554185977065" duration="914000" />
+      <workItem from="1554186983478" duration="19000" />
+      <workItem from="1554187056443" duration="8405000" />
+      <workItem from="1554201072543" duration="2276000" />
+      <workItem from="1554224686953" duration="394000" />
+      <workItem from="1554254150869" duration="1397000" />
+      <workItem from="1554261752139" duration="1037000" />
+      <workItem from="1554263404598" duration="4996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42243000" />
+    <option name="totallyTimeSpent" value="60767000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,10 +423,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="31" width="1237" height="737" extended-state="0" />
-    <editor active="true" />
+    <frame x="43" y="63" width="1237" height="737" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.26025105" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49722221" visible="true" weight="0.29288703" />
       <window_info id="Structure" order="1" sideWeight="0.50277776" side_tool="true" weight="0.26025105" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -417,7 +434,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50277776" side_tool="true" weight="0.26025105" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info anchor="bottom" content_ui="combo" x="59" y="411" width="1195" height="310" id="Run" order="2" sideWeight="0.49874476" weight="0.046511628" />
+      <window_info anchor="bottom" content_ui="combo" x="59" y="411" width="1195" height="310" id="Run" order="2" sideWeight="0.49874476" weight="0.3503876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,6 +457,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.3293617" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.55146444" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,13 +465,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/parser/selector/BaseElementSelector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -529,11 +540,6 @@
     <entry file="file://$PROJECT_DIR$/log/netdiscovery_2019-03-26.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2167" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/netdiscovery_log.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7333" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/netdiscovery_2019-03-27.log">
@@ -643,34 +649,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/TestSpider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/EosSpider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/UASpider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/domain/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -681,41 +663,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java">
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/SpiderEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="5085">
+          <caret line="377" column="16" selection-start-line="377" selection-start-column="16" selection-end-line="377" selection-end-column="16" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/netdiscovery_2019-04-01.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151058" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/netdiscovery_log.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/pipeline/power/PowerPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/3.6.2/51c7da709f8f659f2bab50533debceeec8fb58d3/vertx-core-3.6.2-sources.jar!/io/vertx/core/net/impl/ConnectionBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="56" column="42" lean-forward="true" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/NetDiscovery/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java" />
+    <entry file="file://$PROJECT_DIR$/../Desktop/爬虫/NetDiscovery/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/TestSpider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/test/EosSpider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/power/PowerSpider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/com/net/netdiscovery/mian/power/PowerSpider2.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.5/67c47de9bc6f4f21fa778df81dc34126f471428e/netdiscovery-core-0.3.5-sources.jar!/com/cv4j/netdiscovery/core/SpiderEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/Spider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="553" selection-start-line="553" selection-end-line="553" />
+        <state relative-caret-position="3585">
+          <caret line="277" column="18" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/SpiderEngine.java">
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.5/67c47de9bc6f4f21fa778df81dc34126f471428e/netdiscovery-core-0.3.5-sources.jar!/com/cv4j/netdiscovery/core/domain/Request.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="377" column="16" selection-start-line="377" selection-start-column="16" selection-end-line="377" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.5/67c47de9bc6f4f21fa778df81dc34126f471428e/netdiscovery-core-0.3.5-sources.jar!/com/cv4j/netdiscovery/core/Spider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="328" column="46" selection-start-line="328" selection-start-column="46" selection-end-line="328" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/parser/power/PowerParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.cv4j.netdiscovery/netdiscovery-core/0.3.4/407385ea4197120288269037cdad3075dafdc617/netdiscovery-core-0.3.4-sources.jar!/com/cv4j/netdiscovery/core/domain/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3900">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="283">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/net/netdiscovery/mian/power/PowerSpider2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -725,10 +829,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>com.net.NetDiscovery.main:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34712642" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -771,11 +877,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>main|com.net.NetDiscovery</last-edited>
+          <last-edited>NetDiscovery</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34712642" />
                 <option value="0.6" />
               </list>
             </option>
