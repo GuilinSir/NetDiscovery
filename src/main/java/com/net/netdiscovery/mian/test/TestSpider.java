@@ -3,6 +3,7 @@ package com.net.netdiscovery.mian.test;
 import com.cv4j.netdiscovery.core.Spider;
 import com.cv4j.netdiscovery.core.domain.Request;
 import com.net.netdiscovery.parser.test.TestParser;
+import com.net.netdiscovery.pipeline.test.TestPipeline;
 
 /**
  * Created by tony on 2018/2/2.
@@ -20,6 +21,7 @@ public class TestSpider {
                 .name("spider-1")         //名字随便起
                 .request(request)
                 .parser(new TestParser())  //parser类
+                .pipeline(new TestPipeline())
                 .run();
 
 

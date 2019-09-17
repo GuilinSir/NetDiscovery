@@ -25,9 +25,14 @@ public class PowerParser implements Parser {
     @Override
     public void process(Page page) {
         try {
+            System.out.println("statusCode:"+page.getStatusCode());
             String response = page.getField(Constant.RESPONSE_JSON).toString();
+            String response1 = page.getHtml().toString();
+
             System.out.println("response = "+response);
+            System.out.println("response1 = "+response1);
         } catch(Exception e) {
+            System.out.println(e.toString());
         }
 
 
