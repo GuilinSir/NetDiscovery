@@ -28,6 +28,7 @@ object PowerSpider {
                     .pipeline(PowerPipeline(DBBM_List[i]))
             engine.addSpider(spider)
         }
+        
         engine.httpd(8080)
         engine.run()
 
