@@ -27,8 +27,6 @@ public class PowerSpider2 {
                     SpiderEngine spiderEngine = SpiderEngine.create();
                     String[] assetNoList = {"1510664582"};
                     String url = "http://www.100ghouse.com/yonghu//app/users/user/pass_code";
-                    //String url = "http://10.134.78.59:7001/aueic/collMeterData/loadMeterEventView.action";
-                    //String url = "http://10.134.78.59:7001/aueic/collMeterData/getAllDataResultOne.action";
                     for (String assetNo : assetNoList) {
                         Map<String, Object> postParams = new HashMap<>();
                         postParams.put("collMeter.assetNo", assetNo);

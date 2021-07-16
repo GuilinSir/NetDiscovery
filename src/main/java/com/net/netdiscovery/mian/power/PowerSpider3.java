@@ -24,8 +24,7 @@ public class PowerSpider3 {
 
                     SpiderEngine spiderEngine = SpiderEngine.create();
                     String[] assetNoList = {"1510664582"};
-                    //String url = "https://www.feixiaohao.com/currencies/eos/";
-                    String url = "http://10.134.78.59:7001/aueic/collMeterData/loadMeterEventView.action?collMeter.assetNo=1510664582&collMeter.allDataItemNums=431500";
+                    String url = "https://www.feixiaohao.com/currencies/eos/";
                     for (String assetNo : assetNoList) {
                         Spider spider = Spider.create()
                                 .name("Power" + assetNo)
